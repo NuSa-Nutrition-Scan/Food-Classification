@@ -4,3 +4,8 @@ This repository contains code to detect a food and find out the nutrients contai
 
 Through the research we have done, we found one approach to find a solution to the problem. We use the Transfer Learning approach with the help of Libraries from TensorFlow.
 </p>
+
+<h2>Overview</h2>
+<p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Detection/assets/81479217/61e4be79-ade6-4cd4-90a5-69ecc4c4965c" alt="overview" /></p>
+
+

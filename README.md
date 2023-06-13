@@ -1,6 +1,6 @@
 <h1>Food Classification</h1>
 <p>
-Repository ini berisi kode untuk mendeteksi sebuah makanan dan mengetahui nutrisi yang terkandung di dalamnya. Proyek ini bertujuan untuk membantu pengguna mengetahui jenis makanan dan nutrisi apa saja yang terkandung pada makanan tersebut sehingga pengguna dapat menyesuaikan kebutuhan nutrisi hariannya.
+This repository contains code to detect a food and find out the nutrients contained in it. This project aims to help users find out what types of food and nutrients are contained in these foods so that users can adjust their daily nutritional needs.
 
-Melalui riset yang telah kami lakukan, kami menemukan salah satu pendekatan untuk menemukan sebuah solusi dari masalah tersebut. Kami menggunakan pendekatan Transfer Learning dengan bantuan Library dari TensorFlow.
+Through the research we have done, we found one approach to find a solution to the problem. We use the Transfer Learning approach with the help of Libraries from TensorFlow.
 </p>

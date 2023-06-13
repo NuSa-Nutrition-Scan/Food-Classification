@@ -7,5 +7,12 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>Overview</h2>
 <p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Detection/assets/81479217/61e4be79-ade6-4cd4-90a5-69ecc4c4965c" alt="overview" /></p>
+<p>Program flow is as follows :</p>
+<ul>
+  <li>We upload the image of the food we want to detect.</li>
+  <li>Then click the submit button.</li>
+  <li>The food image will be processed and then output in the form of the name of the food contained in the image.</li>
+</ul>
+
 
 

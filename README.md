@@ -17,10 +17,10 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>How to Replicate Process</h2>
 <ol>
-  <li>First clone this repository using comment </li> `git clone git@github.com:NuSa-Nutrition-Scan/Food-Classification.git`
-  <li>Install requirment</li>
-  <li>Kalo mau training jalanin notebooknya make Computer Vision.ipynb</li>
-  <li>Kalo mau deploy jalanin scriptnya make Demo-deploy-with-gradio.py</li>
+  <li>First clone this repository using comment "git clone git@github.com:NuSa-Nutrition-Scan/Food-Classification.git"</li>
+  <li>install requirements needed</li>
+  <li>If you want to do training data, you can access it at Computer Vision.ipynb</li>
+  <li>If you want to do a deployment to run the script, you can use Demo-deploy-with-gradio.py</li>
 </ol>
 
 <h2>Directory Structure</h2>
@@ -42,7 +42,7 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>Branches in This Repository</h2>
 <ol>
-  <li>nyari model paling efektif</li>
+  <li>In this feature, we use three branches where everyone tries to get the most effective model accuracy.</li>
 </ol>
 
 

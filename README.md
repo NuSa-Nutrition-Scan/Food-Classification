@@ -42,7 +42,7 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>Branches in This Repository</h2>
 <ol>
-  <li>In this feature, we use three branches where everyone tries to get the most effective model accuracy.</li>
+  <li>In this feature, we use four branches where everyone tries to get the most effective model accuracy.</li>
 </ol>
 
 

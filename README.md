@@ -15,6 +15,17 @@ Through the research we have done, we found one approach to find a solution to t
   <li>The output from the gradio API in Hugging Face will be a JSON File that contains the food name and percentage of predicted confidence.</li>
 </ul>
 
+<h2>How We Build</h2>
+<ol>
+  <li>ntar malem jam 8 didiskusiin</li>
+  <li>ntar malem jam 8 didiskusiin</li>
+  <li>ntar malem jam 8 didiskusiin</li>
+  <ul>
+    <li>ntar malem jam 8 didiskusiin</li>
+    <li>ntar malem jam 8 didiskusiin</li>
+  </ul>
+</ol>
+
 <h2>How to Replicate Process</h2>
 <ol>
   <li>ntar malem jam 8 didiskusiin</li>

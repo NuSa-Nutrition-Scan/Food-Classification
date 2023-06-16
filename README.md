@@ -12,7 +12,7 @@ Through the research we have done, we found one approach to find a solution to t
   <li>We upload the image of the food we want to detect.</li>
   <li>Then click the submit button.</li>
   <li>The food image will be processed and then output in the form of the name of the food contained in the image.</li>
-  <li>The output from the gradio API in Hugging Face will be a JSON File that contains the food name and percentage of predicted confidence.</li>
+  <li>The model will display the top 15 recommendations and food list according to the times per day.</li>
 </ul>
 
 <h2>How to Replicate Process</h2>

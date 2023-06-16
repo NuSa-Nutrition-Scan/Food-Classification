@@ -17,13 +17,10 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>How to Replicate Process</h2>
 <ol>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <ul>
-    <li>ntar malem jam 8 didiskusiin</li>
-    <li>ntar malem jam 8 didiskusiin</li>
-  </ul>
+  <li>clone repo</li>
+  <li>Install requirment</li>
+  <li>Kalo mau training jalanin notebooknya make Computer Vision.ipynb</li>
+  <li>Kalo mau deploy jalanin scriptnya make Demo-deploy-with-gradio.py</li>
 </ol>
 
 <h2>Directory Structure</h2>

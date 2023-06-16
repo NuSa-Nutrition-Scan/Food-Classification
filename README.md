@@ -42,9 +42,7 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>Branches in This Repository</h2>
 <ol>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
+  <li>nyari model paling efektif</li>
 </ol>
 
 

@@ -12,12 +12,10 @@ Through the research we have done, we found one approach to find a solution to t
   <li>We upload the image of the food we want to detect.</li>
   <li>Then click the submit button.</li>
   <li>The food image will be processed and then output in the form of the name of the food contained in the image.</li>
+  <li>The output from the API will be a JSON File that contains the food name and percentage of predicted confidence..</li>
 </ul>
 
-<h2>Process</h2>
-<p>ntar malem jam 8 didiskusiin</p>
-
-<h2>Directory Structure</h2>
+<h2>How to Replicate Process</h2>
 <ol>
   <li>ntar malem jam 8 didiskusiin</li>
   <li>ntar malem jam 8 didiskusiin</li>
@@ -28,6 +26,19 @@ Through the research we have done, we found one approach to find a solution to t
   </ul>
 </ol>
 
+<h2>Directory Structure</h2>
+<ol>
+  <li>my_model_1</li>
+  Folder of Food Classification saved models that contain model architecture and weights of parameters.
+  
+  <li>Computer Vision.ipynb</li>
+  Jupyter Notebook for building and training Food Classification Models that include pre-processing untill deployment with help of gradio library
+  
+  <li>Demo-deploy-with-gradio</li>
+  With the Python script that we use for building the model in Hugging Face, we deploy our Food Classification model with the help of the Gradio library, which can
+  produce a GUI for the use of machine learning models.
+</ol>
+
 
 <h2>Branches in This Repository</h2>
 <ol>
@@ -35,17 +46,6 @@ Through the research we have done, we found one approach to find a solution to t
   <li>ntar malem jam 8 didiskusiin</li>
   <li>ntar malem jam 8 didiskusiin</li>
 </ol>
-
-<h2>References</h2>
-<ol>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-  <li>ntar malem jam 8 didiskusiin</li>
-</ol>
-
 
 
 

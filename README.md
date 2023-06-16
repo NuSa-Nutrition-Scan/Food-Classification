@@ -37,6 +37,9 @@ Through the research we have done, we found one approach to find a solution to t
   <li>Demo-deploy-with-gradio</li>
   With the Python script that we use for building the model in Hugging Face, we deploy our Food Classification model with the help of the Gradio library, which can
   produce a GUI for the use of machine learning models.
+  
+  <li>requirements.txt</li>
+  List of python package that we use to training and deploying our food classification model
 </ol>
 
 

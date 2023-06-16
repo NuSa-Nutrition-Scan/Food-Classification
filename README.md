@@ -17,7 +17,7 @@ Through the research we have done, we found one approach to find a solution to t
 
 <h2>How to Replicate Process</h2>
 <ol>
-  <li>clone repo</li>
+  <li>First clone this repository using the comment `git clone git@github.com:NuSa-Nutrition-Scan/Food-Classification.git`</li>
   <li>Install requirment</li>
   <li>Kalo mau training jalanin notebooknya make Computer Vision.ipynb</li>
   <li>Kalo mau deploy jalanin scriptnya make Demo-deploy-with-gradio.py</li>
